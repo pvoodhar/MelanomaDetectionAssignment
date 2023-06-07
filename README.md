@@ -50,3 +50,7 @@ Initially we tried without the ImageDataGenerator which created data to over fit
 Then we introduced dropout and ImageDataGenerator which reduced the over fit
 
 At last we tried Batch Normalization and Augumentation which really helped in carry forward
+
+## Contact 
+Puneeth VS
+vs.puneeth14@Gmail.com
